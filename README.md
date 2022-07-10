@@ -1,16 +1,12 @@
-### Hi there 👋
+:wave: Hi, I'm Atomic Sorcerer!
 
-<!--
-**atomicsorcerer/atomicsorcerer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working on:
+- :game_die: **Sudoku Generator**, a Python project to generate complete sudoku boards using the wave function collapse algorithm
+- :telescope: **Quark**, a Discord bot that makes science fun
+- :computer: **RSA from Scratch**, a Python project that recreates the RSA encryption system
+- ...and much more
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goals:
+- Learn C and Rust
+- Learn the math and science behind ML
+- Improve my knowlegde of Tensorflow
