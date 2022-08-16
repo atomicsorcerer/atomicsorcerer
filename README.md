@@ -7,6 +7,6 @@ I'm currently working on:
 - ...and much more
 
 My goals:
-- Learn C and Rust
+- Learn Rust
 - Learn the math and science behind ML
 - Improve my knowlegde of Tensorflow
