@@ -15,4 +15,4 @@ I'm currently working on:
 My goals:
 - Learn Rust
 - Learn more of the math and science behind ML
-- Improve my knowlegde of Tensorflow
+- Improve my knowlegde of PyTorch
