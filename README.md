@@ -1,4 +1,3 @@
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -16,3 +15,6 @@ My goals:
 - Learn Rust
 - Learn more of the math and science behind ML
 - Improve my knowlegde of PyTorch
+
+New technologies I'm excited for:
+- Mojo, as a superset for Python
