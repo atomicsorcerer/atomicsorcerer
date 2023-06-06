@@ -18,3 +18,4 @@ My goals:
 
 New technologies I'm excited for:
 - Mojo, as a superset for Python
+- Apple Vision Pro
